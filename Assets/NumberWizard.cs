@@ -9,7 +9,7 @@ public class NumberWizard : MonoBehaviour {
 	int min;
 	int guess;
 	
-	public int maxGuessesAllowed = 10;
+	public int maxGuessesAllowed = 20;
 	public Text text;
 	
 	void Start () {
